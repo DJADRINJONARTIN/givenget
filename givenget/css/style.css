@@ -1,0 +1,102 @@
+body {
+	background: #5795D3 !important;
+}
+
+body header {
+	background: white;
+}
+
+form.logOut {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+form.logOut button {
+	border: 1px solid black;
+	background: none;
+	padding: 0;
+	font-size: 24px;
+	color: black;
+}
+
+body form {
+	width: 30%;
+	margin: 50px auto;
+	padding: 50px 10px;
+	background: white;
+}
+
+body form h2 {
+	text-align: center;
+}
+
+body form input, body form textarea, body form select  {
+	background: lightgray;
+	border: none;
+	padding: 5mm;
+	color: black;
+	font-size: 25px;
+	display: block;
+	width: 100%;
+	color: black;
+}
+
+body form button {
+	background: #3598DC;
+	color: white;
+	width: 100%;
+	font-size: 35px;
+	border: none;
+	font-weight: bolder;
+	padding: 7px;
+}
+
+body #main span { color: white; }
+
+body #main span a {
+	padding-bottom: 0.01mm;
+	color: white;
+	text-decoration: none;
+	border-bottom: 1px solid white;
+}
+
+#body > div > center > div > div {
+	padding: 10px;
+	border-radius: 10%;
+	border: 1px solid black;
+}
+
+#body > div > div > div > h3 {
+	text-align: center;
+}
+
+body > div > center > div > div {
+	border-radius: 30%;
+	border: 1px solid black;
+	padding: 15px;
+}
+
+body > div > center > div > div > a  {
+	color: black;
+}
+
+body > div > center > div > div > a:hover {
+	color: black;
+}
+
+body header nav {
+	padding-top: 15px;
+	padding-bottom: 1px;
+	background: #eee;
+}
+
+body header ul li {
+	margin-right: 15px;
+	display: inline;
+	text-align: center;
+}
+
+
+body header ul li a:hover, body header ul li a {
+	color: black;
+}
